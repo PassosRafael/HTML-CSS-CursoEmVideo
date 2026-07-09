@@ -1,8 +1,16 @@
 @charset "UTF-8";
 
+:root{
+    --fonte1: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte2: 
+    --fonte3:
+}
+
+
 *{
     margin: 0px;
     padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 html, body{
